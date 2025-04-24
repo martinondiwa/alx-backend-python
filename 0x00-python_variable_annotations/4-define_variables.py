@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
- Define variables
+Define variables
+Define and annotate variables with specified values
 """
 
 
